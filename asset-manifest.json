@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hasbihall/static/css/main.86a07240.chunk.css",
-    "main.js": "/react-hasbihall/static/js/main.80867dfc.chunk.js",
-    "main.js.map": "/react-hasbihall/static/js/main.80867dfc.chunk.js.map",
+    "main.js": "/react-hasbihall/static/js/main.2dabe1fd.chunk.js",
+    "main.js.map": "/react-hasbihall/static/js/main.2dabe1fd.chunk.js.map",
     "runtime-main.js": "/react-hasbihall/static/js/runtime-main.a349e821.js",
     "runtime-main.js.map": "/react-hasbihall/static/js/runtime-main.a349e821.js.map",
     "static/js/2.7846faf7.chunk.js": "/react-hasbihall/static/js/2.7846faf7.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/react-hasbihall/index.html",
     "static/css/main.86a07240.chunk.css.map": "/react-hasbihall/static/css/main.86a07240.chunk.css.map",
     "static/js/2.7846faf7.chunk.js.LICENSE.txt": "/react-hasbihall/static/js/2.7846faf7.chunk.js.LICENSE.txt",
-    "static/media/logo1.606884db.png": "/react-hasbihall/static/media/logo1.606884db.png"
+    "static/media/logo1.93e7abda.png": "/react-hasbihall/static/media/logo1.93e7abda.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a349e821.js",
     "static/js/2.7846faf7.chunk.js",
     "static/css/main.86a07240.chunk.css",
-    "static/js/main.80867dfc.chunk.js"
+    "static/js/main.2dabe1fd.chunk.js"
   ]
 }

@@ -1,0 +1,168 @@
+{
+    "hots": [
+        {
+            "name": "Çay",
+            "price": "4"
+        },
+        {
+            "name": "Fincan Çay",
+            "price": "4"
+        },
+        {
+            "name": "Bitki Çayı",
+            "price": "14"
+        },
+        {
+            "name": "Oralet",
+            "price": "4"
+        },
+        {
+            "name": "Kakao",
+            "price": "6"
+        },
+        {
+            "name": "Kivi-Limon",
+            "price": "6"
+        },
+        {
+            "name": "Türk Kahvesi",
+            "price": "12"
+        },
+        {
+            "name": "Sıcak Çikolata",
+            "price": "18"
+        },
+        {
+            "name": "Sahlep",
+            "price": "14"
+        }
+    ],
+    "cold": [
+        {
+            "name": "Su",
+            "price": "4"
+        },
+        {
+            "name": "Kola , Fanta , Sprite",
+            "price": "10"
+        },
+        {
+            "name": "Scheweppes Mandalina",
+            "price": "5"
+        },
+        {
+            "name": "Maden Suyu",
+            "price": "7"
+        },
+        {
+            "name": "Meyveli Maden Suyu",
+            "price": "8"
+        },
+        {
+            "name": "Milkshake",
+            "price": "22"
+        },
+        {
+            "name": "Ayran",
+            "price": "6"
+        },
+        {
+            "name": "Churchill",
+            "price": "15"
+        },
+        {
+            "name": "Ice-Tea",
+            "price": "8"
+        },
+        {
+            "name": "Limonata-Karadut",
+            "price": "10"
+        }
+    ],
+    "cofee": [
+        {
+            "name": "Türk Kahvesi",
+            "price": "12"
+        },
+        {
+            "name": "Nescafe",
+            "price": "12"
+        },
+        {
+            "name": "Sütlü Nescafe",
+            "price": "12"
+        },
+        {
+            "name": "Dibek Kahvesi",
+            "price": "14"
+        },
+        {
+            "name": "Menengiç Kahvesi",
+            "price": "14"
+        },
+        {
+            "name": "Hasbihallah Kahvesi",
+            "price": "14"
+        },
+        {
+            "name": "Espresso",
+            "price": "16"
+        },
+        {
+            "name": "Cappucino-Latte-Mocha",
+            "price": "16"
+        },
+        {
+            "name": "Filtre Kahve",
+            "price": "16"
+        }
+    ],
+    "meals": [
+        {
+            "name": "Izgara Köfte",
+            "price": "40"
+        },
+        {
+            "name": "Çıtır Tavuk",
+            "price": "25"
+        },
+        {
+            "name": "Tost",
+            "price": "20"
+        },
+        {
+            "name": "Patates Kızartması",
+            "price": "12"
+        },
+        {
+            "name": "Menemen",
+            "price": "18"
+        },
+        {
+            "name": "Omlet",
+            "price": "12"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Büyük Waffle",
+            "price": "30"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "18"
+        },
+        {
+            "name": "Cheesecake",
+            "price": "18"
+        },
+        {
+            "name": "Dondurma",
+            "price": "10"
+        },
+        {
+            "name": "Kuruyemiş",
+            "price": "18"
+        }
+    ]
+}

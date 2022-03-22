@@ -133,6 +133,10 @@
         {
             "name": "Çıtır Tavuk",
             "price": "35"
+        },       
+        {
+            "name": "Hamburger",
+            "price": "35"
         },
         {
             "name": "Tost",

@@ -6,7 +6,7 @@
         },
         {
             "name": "Fincan Çay",
-            "price": "4"
+            "price": "8"
         },
         {
             "name": "Bitki Çayı",
@@ -48,7 +48,7 @@
         },
         {
             "name": "Scheweppes Mandalina",
-            "price": "5"
+            "price": "15"
         },
         {
             "name": "Maden Suyu",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Sütlü Nescafe",
-            "price": "12"
+            "price": "14"
         },
         {
             "name": "Dibek Kahvesi",
@@ -110,11 +110,11 @@
         },
         {
             "name": "Cappucino-Latte-Mocha",
-            "price": "16"
+            "price": "18"
         },
         {
             "name": "Filtre Kahve",
-            "price": "16"
+            "price": "18"
         }
     ],
     "meals": [

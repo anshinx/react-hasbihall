@@ -40,7 +40,7 @@
     "cold": [
         {
             "name": "Su",
-            "price": ""
+            "price": "4"
         },
         {
             "name": "Kola , Fanta , Sprite",
@@ -115,6 +115,54 @@
         {
             "name": "Filtre Kahve",
             "price": "16"
+        }
+    ],
+    "meals": [
+        {
+            "name": "Izgara Köfte",
+            "price": "40"
+        },
+        {
+            "name": "Çıtır Tavuk",
+            "price": "25"
+        },
+        {
+            "name": "Tost",
+            "price": "20"
+        },
+        {
+            "name": "Patates Kızartması",
+            "price": "12"
+        },
+        {
+            "name": "Menemen",
+            "price": "18"
+        },
+        {
+            "name": "Omlet",
+            "price": "12"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Büyük Waffle",
+            "price": "30"
+        },
+        {
+            "name": "Tiramisu",
+            "price": "18"
+        },
+        {
+            "name": "Cheesecake",
+            "price": "18"
+        },
+        {
+            "name": "Dondurma",
+            "price": "10"
+        },
+        {
+            "name": "Kuruyemiş",
+            "price": "18"
         }
     ]
 }

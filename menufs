@@ -62,6 +62,10 @@
             "name": "Milkshake",
             "price": "22"
         },
+         {
+            "name": "Kokteyl",
+            "price": "22"
+        },
         {
             "name": "Ayran",
             "price": "6"
@@ -72,7 +76,7 @@
         },
         {
             "name": "Ice-Tea",
-            "price": "8"
+            "price": "10"
         },
         {
             "name": "Limonata-Karadut",
@@ -121,10 +125,14 @@
         {
             "name": "Izgara Köfte",
             "price": "40"
+        }, 
+        {
+            "name": "Köri Soslu Tavuk",
+            "price": "40"
         },
         {
             "name": "Çıtır Tavuk",
-            "price": "25"
+            "price": "35"
         },
         {
             "name": "Tost",
@@ -132,15 +140,15 @@
         },
         {
             "name": "Patates Kızartması",
-            "price": "12"
+            "price": "15"
         },
         {
             "name": "Menemen",
-            "price": "18"
+            "price": "20"
         },
         {
             "name": "Omlet",
-            "price": "12"
+            "price": "15"
         }
     ],
     "desserts": [
@@ -149,12 +157,16 @@
             "price": "30"
         },
         {
-            "name": "Tiramisu",
-            "price": "18"
+            "name": "Sufle",
+            "price": "22"
         },
         {
             "name": "Cheesecake",
-            "price": "18"
+            "price": "22"
+        },
+         {
+            "name": "Künefe",
+            "price": "22"
         },
         {
             "name": "Dondurma",
@@ -162,7 +174,11 @@
         },
         {
             "name": "Kuruyemiş",
-            "price": "18"
+            "price": "20"
+        },
+        {
+            "name": "Meyve Tabağı",
+            "price": "25"
         }
     ]
 }

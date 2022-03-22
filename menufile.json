@@ -1,0 +1,7 @@
+{
+  hots : 
+  [
+    {"name" : "Çay" , "price" : "4"},
+        {"name" : "Türk Kahvesi" , "price" : "12"},
+  ]
+}

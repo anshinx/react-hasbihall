@@ -1,7 +1,12 @@
 {
-  "hots" : 
-  [
-    {"name" : "Çay" , "price" : "4"},
-        {"name" : "Türk Kahvesi" , "price" : "12"},
-  ]
+    "hots": [
+        {
+            "name": "Çay",
+            "price": "4"
+        },
+        {
+            "name": "Türk Kahvesi",
+            "price": "12"
+        }
+    ]
 }

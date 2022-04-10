@@ -44,7 +44,7 @@
         },
         {
             "name": "Kola , Fanta , Sprite",
-            "price": "10"
+            "price": "12"
         },
         {
             "name": "Scheweppes Mandalina",
@@ -76,11 +76,11 @@
         },
         {
             "name": "Ice-Tea",
-            "price": "10"
+            "price": "12"
         },
         {
             "name": "Limonata-Karadut",
-            "price": "10"
+            "price": "12"
         }
     ],
     "cofee": [
@@ -140,7 +140,7 @@
         },
         {
             "name": "Tost",
-            "price": "20"
+            "price": "25"
         },
         {
             "name": "Patates Kızartması",

@@ -56,7 +56,11 @@
         },
         {
             "name": "Meyveli Maden Suyu",
-            "price": "8"
+            "price": "9"
+        },
+        {
+            "name": "Ayran Soda",
+            "price": "15"
         },
         {
             "name": "Milkshake",
@@ -68,7 +72,7 @@
         },
         {
             "name": "Ayran",
-            "price": "6"
+            "price": "7"
         },
         {
             "name": "Churchill",

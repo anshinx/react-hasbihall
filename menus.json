@@ -24,10 +24,7 @@
             "name": "Kivi-Limon",
             "price": "6"
         },
-        {
-            "name": "Türk Kahvesi",
-            "price": "12"
-        },
+       
         {
             "name": "Sıcak Çikolata",
             "price": "18"
@@ -77,32 +74,36 @@
         {
             "name": "Limonata-Karadut",
             "price": "10"
+        },
+        {
+            "name": "Enerji İçeceği",
+            "price": "25"
         }
     ],
     "cofee": [
         {
             "name": "Türk Kahvesi",
-            "price": "12"
+            "price": "14"
         },
         {
             "name": "Nescafe",
-            "price": "12"
+            "price": "14"
         },
         {
             "name": "Sütlü Nescafe",
-            "price": "12"
+            "price": "14"
         },
         {
             "name": "Dibek Kahvesi",
-            "price": "14"
+            "price": "15"
         },
         {
             "name": "Menengiç Kahvesi",
-            "price": "14"
+            "price": "15"
         },
         {
             "name": "Hasbihallah Kahvesi",
-            "price": "14"
+            "price": "15"
         },
         {
             "name": "Espresso",

@@ -129,19 +129,23 @@
     "meals": [
         {
             "name": "Izgara Köfte",
-            "price": "40"
+            "price": "45"
         }, 
         {
             "name": "Köri Soslu Tavuk",
-            "price": "40"
+            "price": "45"
         },
         {
             "name": "Çıtır Tavuk",
-            "price": "35"
+            "price": "40"
+        },
+        {
+            "name": "Sıcak Tabağı",
+            "price": "40"
         },       
         {
             "name": "Hamburger",
-            "price": "35"
+            "price": "40"
         },
         {
             "name": "Tost",
@@ -149,45 +153,45 @@
         },
         {
             "name": "Patates Kızartması",
-            "price": "15"
-        },
-        {
-            "name": "Menemen",
             "price": "20"
         },
         {
+            "name": "Menemen",
+            "price": "25"
+        },
+        {
             "name": "Omlet",
-            "price": "15"
+            "price": "20"
         }
     ],
     "desserts": [
         {
-            "name": "Büyük Waffle",
-            "price": "30"
+            "name": "Waffle",
+            "price": "40"
         },
         {
             "name": "Sufle",
-            "price": "22"
+            "price": "25"
         },
         {
             "name": "Cheesecake",
-            "price": "22"
+            "price": "25"
         },
          {
             "name": "Künefe",
-            "price": "22"
+            "price": "25"
         },
         {
             "name": "Dondurma",
-            "price": "10"
+            "price": "15"
         },
         {
             "name": "Kuruyemiş",
-            "price": "20"
+            "price": "25"
         },
         {
             "name": "Meyve Tabağı",
-            "price": "25"
+            "price": "30"
         }
     ]
 }

@@ -14,7 +14,7 @@
         },
         {
             "name": "Oralet",
-            "price": "4"
+            "price": "5"
         },
         {
             "name": "Kakao",
@@ -49,11 +49,11 @@
         },
         {
             "name": "Maden Suyu",
-            "price": "7"
+            "price": "8"
         },
         {
             "name": "Meyveli Maden Suyu",
-            "price": "9"
+            "price": "10"
         },
         {
             "name": "Ayran Soda",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Ayran",
-            "price": "7"
+            "price": "8"
         },
         {
             "name": "Churchill",

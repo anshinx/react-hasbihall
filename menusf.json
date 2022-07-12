@@ -1,0 +1,30 @@
+{
+    "menus": [
+        {
+            "name": "Latte & Sufle",
+            "price": "30.00"
+        },
+        {
+            "name": "Köri Soslu Tavuk & Kola",
+            "price": "30.00"
+        },
+        {
+            "name": "Superlig Maçları",
+            "price": "10.00"
+        },
+        {
+            "name": "Avrupa Ligi Maçları",
+            "price": "20.00"
+        }
+    ],
+    "hots": [
+        {
+            "name": "Çay",
+            "price": "4"
+        },
+        {
+            "name": "Türk Kahvesi",
+            "price": "12"
+        }
+    ]
+}

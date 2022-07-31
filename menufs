@@ -27,7 +27,7 @@
       
         {
             "name": "Sıcak Çikolata",
-            "price": "18"
+            "price": "22"
         },
         {
             "name": "Sahlep",
@@ -41,12 +41,9 @@
         },
         {
             "name": "Kola , Fanta , Sprite",
-            "price": "12"
-        },
-        {
-            "name": "Scheweppes Mandalina",
             "price": "15"
         },
+   
         {
             "name": "Maden Suyu",
             "price": "8"
@@ -61,11 +58,11 @@
         },
         {
             "name": "Milkshake",
-            "price": "22"
+            "price": "25"
         },
          {
             "name": "Kokteyl",
-            "price": "22"
+            "price": "25"
         },
         {
             "name": "Ayran",
@@ -77,11 +74,11 @@
         },
         {
             "name": "Ice-Tea",
-            "price": "12"
+            "price": "15"
         },
         {
             "name": "Limonata-Karadut",
-            "price": "12"
+            "price": "15"
         },
         {
         "name":"Enerji İçeceği",
